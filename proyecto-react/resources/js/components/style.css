@@ -1,0 +1,49 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbtnpad{
+    
+    width: 12%;
+    margin-left: 80%;
+}
+.contenedor{
+    height: 75px;
+    width: 90%;
+    margin: auto;
+}
+div .heroleft{
+    
+    float:left;
+    width: 50%;
+    height: 514px;
+    background-image:url("/img/ola.jpg");
+    background-position-y: bottom;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    box-shadow: 0 10px 10px -2px #cdcdcd;z-index: 1;
+    background-color: white;
+    position: relative;
+}
+.equipo1{
+    background-image: url("/img/fondo.jpg");
+    float: left;
+    margin-top: 64px;
+    width: 50%;
+    height: 450px;
+}
+button:hover{
+    color: blue;
+}
+
+.text .nombre{
+    margin-right: 10px;
+   
+}
+
+.text{
+    margin-top: -35px;
+}
+
+.lista .mostrar{
+    background: rgb(31, 31, 179);
+}
